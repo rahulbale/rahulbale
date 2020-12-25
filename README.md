@@ -8,3 +8,7 @@
 - 📌 Scroll down to see my Pinned Repositories.
 - ⚡ Fun fact: I am half finnish
 
+
+# Connect me on:
+
+• Kaggle: https://www.kaggle.com/rahulbale/notebooks
